@@ -51,7 +51,7 @@ model, olasılıksal bir risk skoru üretir.
 | 0–29 | Düşük | Periyodik izleme |
 | 30–49 | Dikkat | Yöneticiye 15 dk "Kahve Sohbeti" ataması |
 | 50–69 | Yüksek | Star ise İç İşe Alım, değilse gelişim planı |
-| 70–100 | Kritik | ONA/Şef istifası kaynaklıysa acil "Stay Interview", değilse Sağlık/Disiplin süreci |
+| 70–100 | Kritik | ONA/Şef istifası kaynaklıysa acil "Görüşme Yap", değilse Sağlık/Disiplin süreci |
 
 ## Kurulum
 
